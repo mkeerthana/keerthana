@@ -1,0 +1,1 @@
+The MFT is the Modulation Transfer Function which is used as a parameter to characterize the sharpness of images.It is also known as spatial frequency response.It is the ability of an optical system different levels from the objects to images.

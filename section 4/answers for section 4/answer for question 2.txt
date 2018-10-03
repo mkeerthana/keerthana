@@ -1,0 +1,14 @@
+The correlation is the process of establishing a mutual relationship between two or more things.
+(a) The methods to compute correlation are as follows,
+                                                     1.Scatter Diagram Method.
+                                                     2.Karl Pearson's Coefficient of Correlation.
+                                                     3.Spearman's Rank Correlation Coefficient.         
+                                                     4.Methods of Least Squares.
+(b) Applications of correlation in Biomedical Engineering and Technology are,
+                         1.Using correlation coefficient in ECG waveforms for arrhythmia detection.
+                         2.Digital image correlation to biological tissues.
+                         3.Cross-correlation method in cardiac output measurements.
+                         4.Correlation hunting between alpha band power of EEG signals.
+                         5.Tunable diode laser spectroscopy:Correlation between breath carbon-monoxide and low level blood carboxyhemoglobin saturation.
+(c) P value in correlation is the level of marginal significance within a statistical hypothesis test and it is used as an alternative to rejections which are provided in null hypothesis.
+p=r/sqrt(r^2)/(N-2) where N is the number of variants.

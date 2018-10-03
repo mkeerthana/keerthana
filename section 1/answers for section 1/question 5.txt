@@ -1,0 +1,2 @@
+The sensitivity is defined as the ration between the output signal and the measured signal.The temperature sensor measures the varying temperatures and the output will be in the form of voltage,the sensitivity is constant in units.The sensitivity is the slope of the transfer function.Whereas the selectivity of sensor is defined as the sensors ability to filter out the unwanted signals other than the temperture signals to the receiver.
+The sensor selectivity discriminates the response from the input end of the sensor.

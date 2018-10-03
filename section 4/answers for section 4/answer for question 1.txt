@@ -1,0 +1,14 @@
+SECTION IV:BIOLOGICAL STATISTIS
+
+1.The hypothesis testing is a procedure based on some sample evidence it compares it with the null hypothesis and it is used to 
+detremine whether the hypothesis is a reasonable statement such that it will not get rejected,when it is unreasonable and below the probability predetermined level
+it gets rejected.
+The seven types of hypothesis testing are as follows,
+                                                     1.Simple
+                                                     2.Complex
+                                                     3.Emprical
+                                                     4.Null
+                                                     5.Alternate
+                                                     6.Logical
+                                                     7.Statistical
+These hypothesis testing are  used in real life,business and in statistical solutions.
