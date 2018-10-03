@@ -1,0 +1,7 @@
+3.Image processing tecniques used in the classification of optical camera images:
+(1)FPGA:
+      This approach used is a windowing operator technique to transverse the pixels of an image and apply the filters to them.
+(2)CLOUD:
+        The image processing cloud is built by integrating the image processing library openCV with handloop platform to deliver PaaS.
+(3)FOCAL PLANE:
+        Focal plane image processing refers to the integration of image aquisition and image or signal processing on the focal plane of an imaging system.

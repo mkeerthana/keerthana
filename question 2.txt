@@ -1,0 +1,6 @@
+2.A typical human eye will respond to wavelengths of about 390 to 700nm-visible spectrum of light.Visible wavelengths pass largely unattenuated through the earths atmosphere via the optical window region of the electromagnetic spectrum.
+Photometer is an hardware element used to measure light intensity or the optical properties of solutions and they get classified according to their intensity levels.Lux meter App is an sofware tool being used to measure the light intensity to classify them.The light sensor is a device for measuring the intensity or brightness of light.The photoresistors also called light detecting resistors are made from cadmium sulfide cells that are sensitive to visible light.
+LDR resistance decreases with intensity of light incidenting upon it.
+APPLICATIONS IN BIOMEDICAL ENGINEERING:
+                                      1.Tremor detection of parkinsons detection.
+                                      2.LDR uses transmittance method to measure pulsatile blood volume changes.

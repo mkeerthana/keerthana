@@ -1,0 +1,7 @@
+4.In physics,absorption of electromagnetic radiation is the way in which the energy of a photon is taken up by matter,typically the electrons of an atom.
+BEER LAMBERT LAW OF RADIATION:
+                        It relates the attenuation of light to the properties of the material through which the light is travelling.
+             I0 = Ia + It.
+where,  I0 is the intensity of radiation falling on the media,
+        Ia is the amount of radiation absorbed and
+        It is the amount of radiation transmitted.
